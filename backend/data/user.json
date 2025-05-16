@@ -1,0 +1,10 @@
+[
+  {
+    "firstname": "book",
+    "lastname": "bento",
+    "email": "book@example.com",
+    "password": "1123456",
+    "category": "Computer",
+    "occupation": "Java"
+  }
+]
